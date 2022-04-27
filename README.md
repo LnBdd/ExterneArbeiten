@@ -30,7 +30,7 @@ Folgende Dokumente/Infos müssen zur Anmeldung vorbereitet und gesammelt werden:
        * Datum der letzmöglichen Abgabe (siehe Hinweis bei Punkt 3.)
        * Unterschrift Zweitprüfende
    * Zusätzliche Dokumente/Infos, die zu übermitteln sind:
-       * Verpflichtungserklärung unterschrieben vom Studi
+       * [Verpflichtungserklärung](Verpflichtungserklaerung_Vorlage.pdf) unterschrieben vom Studi
        * Sechsstellige LUH-ID (Style: ABC-D1E) für die imes StudiIP Gruppe
        * Zulassung aus Punkt 1 (ist das gleiche Dokument wie die Anmeldung)
        * Unterschriebene Aufgabenstellung vom Studi
