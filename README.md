@@ -66,6 +66,7 @@ Abgabe:
   * **Konzeptvortrag**:
   	* ca. 4 Wochen nach Beginn der Arbeit
   	* 15-20 Min. lang
+  	* <span style="background-color: #FFFF00"> 1 Folie  Selbstvorstellung! </span>
   	* Vorstellung des Themas d.h.: Motivation, die Aufgabe, Vorgehnsweise/Zeitplan sowie möglichst auch schon erste Ergebnisse
   	* Termin hierfür ist montags 13 Uhr 
   	* Terminabsprache im externen Institut und mit betreunder Person am imes. 
