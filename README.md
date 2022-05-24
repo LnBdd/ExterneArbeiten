@@ -2,7 +2,10 @@
 Der folgende Leitfaden stellt eine kompakte Übersicht über die Prozesse zur Organisation von studentischen Arbeiten am imes dar. Dieser kann an Studierende oder externe Institute weitergeleitet werden, um die administrativen Prozesse möglichst einfach zu machen. 
 ## Organisation 
 
-Die Organisation um studentische Arbeiten gliedert sich in vier Schritte: 
+Die Organisation soll größtenteils von der "wahren" Betreuung (d.h. z.B. am CAS) übernommen werden. Wer am imes die offizielle Betreuung übernimmt, wird intern entschieden, sollte es nicht thematisch eindeutig sein. 
+Hierzu ist sich an [Sontje Ihler](mailto:sontje.ihler@imes.uni-hannover.de) zu wenden, die die Arbeit dann ggf. an eine:n wissenschaftliche:n Miterarbeiter:in weiterleitet.
+
+Die Organisation von studentischen Arbeiten gliedert sich in vier Schritte: 
 
 ### 1. Antrag auf Zulassung
 In einigen Studiengängen muss **vor** der Anmeldung ein Antrag auf Zulassung beim Prüfungsamt erfolgen. In diesen Fällen, ist auf dem Anmeldeformular eine Seite für die Zulassung reserviert. Für die Zulassung wird geprüft, ob die Studis alle notwendigen Vorleistungen absolviert haben. 
