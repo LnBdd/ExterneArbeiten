@@ -47,6 +47,7 @@ Datum der letzmöglichen Abgabe = siehe Eintragung im QIS. Es gilt was im QIS st
 
 Abgabe:
 
+* Die Verantwortung die Deadline einzuhalten liegt beim Studi! Die genaue Deadline kann nach erfolgter Anmeldung im QIS eingesehen werden. Sollte die Deadline trotzdem unklar sein, hilft eine Email an die imes-Betreuung
 * Zur Deadline Abgabe der PDF bis 17 Uhr bei imes-Betreuung
     - Falls PDF zu groß für Email Anhang -> Fileshare über [Seafile der LUH](https://seafile.cloud.uni-hannover.de/) (Google Drive oder ähnliche nicht-uni Dienste werden nicht akzeptiert!)
   - Zusätzlich ist die Selbstständigkeitserklärung ausgedruckt und analog unterschrieben im Original der imes-Betreuung zuzusenden. Dies kann allerdings auch nach der Deadline geschehen, muss aber vor der Notengebung passieren
