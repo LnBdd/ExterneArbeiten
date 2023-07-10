@@ -25,7 +25,7 @@ Beim Konzeptvortrag und Abschlussvortrag wird erwartet, dass die externen Betreu
 Folgende Dokumente/Infos müssen zur Anmeldung vorbereitet und gesammelt werden:
 
    * Anmeldungsformular ausfüllen (Zweite Seite bei BA/MA, alles auf einer Seite bei SA)
-       * Erstprüfer: Dr.-Ing. habil. H.-G. Jacob
+       * Erstprüfer: Prof. Dr.-Ing. T. Seel
        * Zeitrprüfende: Rau/Hurschler/etc.
        * Betreuung: Daten betreuuende Person imes (siehe Website/Email-Signatur)
        * Thema ausfüllen
@@ -39,7 +39,7 @@ Folgende Dokumente/Infos müssen zur Anmeldung vorbereitet und gesammelt werden:
        * Unterschriebene Aufgabenstellung vom Studi
 
 
-Für die Anmeldung müssen dann die kompletten Unterlagen s.o. an den Betreuenden des imes geschickt werden. Herr Dr. Jacob unterschreibt die Anmeldung und das imes leitet die Unterlagen an das Prüfungsamt weiter. Die Arbeit sollte dann zeitnah im QIS eingetragen sein. Die Studierenden haben Zugriff aus QIS und sollten die Eintragung prüfen.
+Für die Anmeldung müssen dann die kompletten Unterlagen s.o. an den Betreuenden des imes geschickt werden. Herr Seel unterschreibt die Anmeldung und das imes leitet die Unterlagen an das Prüfungsamt weiter. Die Arbeit sollte dann zeitnah im QIS eingetragen sein. Die Studierenden haben Zugriff aus QIS und sollten die Eintragung prüfen.
 
 
 ### 3. Abgabe der Arbeit und Abschlussvortrag
@@ -60,7 +60,7 @@ Abgabe:
 ### 4. Notenvergabe
   * Zur Notenfindung ist der imes Bewertungsbogen zu verwenden und vorzubereiten
   * Eine Notenbesprechung findet gewöhnlich im Anschluss an den Abschlussvortrag (MA montags morgens in großer Runde, BA/SA montags ab 13 Uhr in Studi-Runde) mit imes-Betreuung statt, es ist aber auch möglich einen Termin im Dialog abzustimmen
-  * Der Meldebogen zur Notengebung ist bei BA/MA vorzubereiten und von der zweitprüfenden Person auszufüllen und zu unterschreiben. Danach ist der Bogen ans imes zu übersenden, wo Herr Jacob unterschreibt und die Note anschließend ans Prüfungsamt gemeldet wird. 
+  * Der Meldebogen zur Notengebung ist bei BA/MA vorzubereiten und von der zweitprüfenden Person auszufüllen und zu unterschreiben. Danach ist der Bogen ans imes zu übersenden, wo Herr Seel unterschreibt und die Note anschließend ans Prüfungsamt gemeldet wird. 
 
 
 -------------------------
