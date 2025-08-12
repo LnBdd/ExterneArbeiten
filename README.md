@@ -3,7 +3,7 @@ Der folgende Leitfaden stellt eine kompakte Übersicht über die Prozesse zur Or
 ## Organisation 
 
 Die Organisation soll größtenteils von der "wahren" Betreuung (d.h. z.B. am CAS) übernommen werden. Wer am imes die offizielle Betreuung übernimmt, wird intern entschieden, sollte es nicht thematisch eindeutig sein. 
-Hierzu ist sich an [Sontje Ihler](mailto:sontje.ihler@imes.uni-hannover.de) zu wenden, die die Arbeit dann ggf. an eine:n wissenschaftliche:n Miterarbeiter:in weiterleitet.
+Hierzu ist sich an [Leon Budde](mailto:leon.budde@imes.uni-hannover.de) zu wenden, die die Arbeit dann ggf. an eine:n wissenschaftliche:n Miterarbeiter:in weiterleitet.
 
 Die Organisation von studentischen Arbeiten gliedert sich in vier Schritte: 
 
@@ -39,11 +39,11 @@ Folgende Dokumente/Infos müssen zur Anmeldung vorbereitet und gesammelt werden:
        * Unterschriebene Aufgabenstellung vom Studi
 
 
-Für die Anmeldung müssen dann die kompletten Unterlagen s.o. an den Betreuenden des imes geschickt werden. Herr Seel unterschreibt die Anmeldung und das imes leitet die Unterlagen an das Prüfungsamt weiter. Die Arbeit sollte dann zeitnah im QIS eingetragen sein. Die Studierenden haben Zugriff aus QIS und sollten die Eintragung prüfen.
+Für die Anmeldung müssen dann die kompletten Unterlagen s.o. an den Betreuenden des imes geschickt werden. Herr Seel unterschreibt die Anmeldung und das imes leitet die Unterlagen an das Prüfungsamt weiter. Die Arbeit sollte dann zeitnah im QIS eingetragen sein. Die Studierenden haben Zugriff auf das QIS und sollten die Eintragung prüfen.
 
 
 ### 3. Abgabe der Arbeit und Abschlussvortrag
-Datum der letzmöglichen Abgabe = siehe Eintragung im QIS. Es gilt was im QIS steht und nicht was auf dem Notenzettel steht, falls es da unterschiedliche Daten eingetragen sind! Studierende haben Zugriff auf QIS.
+Datum der letzmöglichen Abgabe = siehe Eintragung im QIS. Es gilt was im QIS steht und nicht was auf dem Notenzettel steht, falls es da unterschiedliche Daten eingetragen sind! Studierende haben Zugriff auf das QIS.
 
 Abgabe:
 
